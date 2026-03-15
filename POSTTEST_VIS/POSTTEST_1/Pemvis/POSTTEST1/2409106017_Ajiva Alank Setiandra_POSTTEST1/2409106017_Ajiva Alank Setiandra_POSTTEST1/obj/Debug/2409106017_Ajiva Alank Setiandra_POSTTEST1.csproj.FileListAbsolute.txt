@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\bin\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.exe.config
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\bin\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.exe
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\bin\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.pdb
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\_2409106017_Ajiva_Alank_Setiandra_POSTTEST1.Form1.resources
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\_2409106017_Ajiva_Alank_Setiandra_POSTTEST1.Properties.Resources.resources
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.exe
+C:\Users\HP\source\repos\2409106017_Ajiva Alank Setiandra_POSTTEST1\2409106017_Ajiva Alank Setiandra_POSTTEST1\obj\Debug\2409106017_Ajiva Alank Setiandra_POSTTEST1.pdb
